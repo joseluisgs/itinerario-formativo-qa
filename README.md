@@ -31,6 +31,8 @@ Codificado con :sparkling_heart: por [José Luis González Sánchez](https://twi
 
 ### Contacto
 
+### Contacto
+
 <p>
   Cualquier cosa que necesites házmelo saber por si puedo ayudarte 💬.
 </p>
@@ -48,7 +50,10 @@ Codificado con :sparkling_heart: por [José Luis González Sánchez](https://twi
     height="30">
     </a> &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/joseluisgonsan" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" https://miro.medium.com/max/1200/1*XW0htbnilrfrO8q635ml2w.jpegisgs#3560" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
+    height="30">
+    </a>  &nbsp;&nbsp;
+    <a href="https://discordapp.com/users/joseluisgs#3560" target="_blank">
         <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" 
     height="30">
     </a> &nbsp;&nbsp;
