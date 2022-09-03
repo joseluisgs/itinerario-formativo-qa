@@ -2,6 +2,8 @@
 
 Este documento pretende ser una guía para orientar la formación de las personas dedicadas a tareas de QA en Sngular. Está dividido en niveles y basado en conceptos que se espera que las personas conozcan y dominen en función de su grado de experiencia.
 
+![img](https://miro.medium.com/max/1200/1*XW0htbnilrfrO8q635ml2w.jpeg)
+
 [Iniciación](./Iniciacion/_index.md)
 
 En este apartado describiremos los conceptos y herramientas que debe saber un QA para empezar en el mundo de la calidad.
@@ -46,10 +48,7 @@ Codificado con :sparkling_heart: por [José Luis González Sánchez](https://twi
     height="30">
     </a> &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/joseluisgonsan" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
-    height="30">
-    </a>  &nbsp;&nbsp;
-    <a href="https://discordapp.com/users/joseluisgs#3560" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" https://miro.medium.com/max/1200/1*XW0htbnilrfrO8q635ml2w.jpegisgs#3560" target="_blank">
         <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" 
     height="30">
     </a> &nbsp;&nbsp;
@@ -65,7 +64,7 @@ Codificado con :sparkling_heart: por [José Luis González Sánchez](https://twi
 
 ## Agradecimientos
 
-[Sngular ](https://gitlab.sngular.com/sngulartech) por el material aportado .
+[Sngular ](https://gitlab.sngular.com/sngulartech) por el material aportado.
 
 ## Licencia
 
