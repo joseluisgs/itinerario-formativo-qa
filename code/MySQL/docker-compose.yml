@@ -1,0 +1,21 @@
+version: '3.3'
+services:
+  mysql:
+    image: mysql:8
+    container_name: mysql-testing-db
+    restart: always
+    environment:
+      MYSQL_DATABASE: 'db'
+      MYSQL_USER: 'user'
+      MYSQL_PASSWORD: 'password'
+      MYSQL_ROOT_PASSWORD: 'password'
+    ports:
+      - '3306:3306'
+    expose:
+      - '3306'
+    volumes:
+      - my-db:/var/lib/mysql
+      - ./scripts:/scripts
+volumes:
+  my-db:
+  scripts:
